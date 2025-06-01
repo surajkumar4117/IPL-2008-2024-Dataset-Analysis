@@ -8,9 +8,13 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #Opening the dataset
-d = pd.read_csv('deliveries.zip', compression='zip')
-df = pd.read_csv('matches.csv')
+@st.cache_data
+def load_data():
+    d = pd.read_csv('deliveries.zip', compression='zip')
+    df = pd.read_csv('matches.csv')
+    return d, df
 
+d, df = load_data()
 #Number of matches in  ecah session
 
 df['season'].replace({'2007/08':'2008','2009/10':'2010','2020/21':'2020'},inplace=True)
