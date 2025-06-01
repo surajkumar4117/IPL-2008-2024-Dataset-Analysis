@@ -8,8 +8,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 
 #Opening the dataset
-d=pd.read_csv('C:/Users/91906/MYFP/deliveries.csv')
-df=pd.read_csv('C:/Users/91906/MYFP/matches.csv')
+d = pd.read_csv('deliveries.zip', compression='zip')
+df = pd.read_csv('matches.csv')
 
 #Number of matches in  ecah session
 
