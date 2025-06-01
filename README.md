@@ -5,7 +5,7 @@ This project is a **Streamlit-based interactive dashboard** for analyzing IPL (I
 ---
 ## 🚀 Live Demo
 
-🎯 **Try it out here:** [ipl-analysis.streamlit.app]([https://ipl-analysis.streamlit.app/](https://ipl-2008-2024-dataset-analysis-xbagnkxaixuwwc9qon2hvb.streamlit.app/))
+🎯 **Try it out here:** (https://ipl-2008-2024-dataset-analysis-xbagnkxaixuwwc9qon2hvb.streamlit.app/)](https://ipl-2008-2024-dataset-analysis-xbagnkxaixuwwc9qon2hvb.streamlit.app/))
 
 ---
 ## 📌 Key Features
