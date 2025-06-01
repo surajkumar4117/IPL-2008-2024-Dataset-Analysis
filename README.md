@@ -3,7 +3,11 @@
 This project is a **Streamlit-based interactive dashboard** for analyzing IPL (Indian Premier League) data from 2008 to 2024. It uses **Pandas**, **Plotly**, and **Seaborn** to visualize match and player-level insights.
 
 ---
+## 🚀 Live Demo
 
+🎯 **Try it out here:** [ipl-analysis.streamlit.app](https://ipl-analysis.streamlit.app/)
+
+---
 ## 📌 Key Features
 
 - 📅 Number of matches played each season  
