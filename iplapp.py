@@ -7,8 +7,13 @@ import numpy as np
 import plotly.express as px
 
 #Opening the dataset
-d=pd.read_csv('C:/Users/91906/MYFP/deliveries.csv')
-df=pd.read_csv('C:/Users/91906/MYFP/matches.csv')
+@st.cache_data
+def load_data():
+    d = pd.read_csv('deliveries.zip', compression='zip')
+    df = pd.read_csv('matches.csv')
+    return d, df
+
+d, df = load_data()
 
 #Desining
 add_radio="";
