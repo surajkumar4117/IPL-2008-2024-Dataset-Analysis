@@ -22,3 +22,6 @@ This project is a **Streamlit-based interactive dashboard** for analyzing IPL (I
 - 📈 Multiple dynamic visualizations using Plotly
 
 ---
+## 📊 Visuals
+
+[View the PDF Report](./docs/IPL project pdf.pdf)
