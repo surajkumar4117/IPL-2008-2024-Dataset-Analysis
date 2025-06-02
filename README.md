@@ -23,6 +23,18 @@ This project is a **Streamlit-based interactive dashboard** for analyzing IPL (I
 
 ---
 ## 📊 Visuals
-[📄 View the PDF](./IPL%20project%20pdf.pdf)
 
-[View the PDF Report](./docs/IPL project pdf.pdf)
+Get a quick overview of the insights in a beautifully designed PDF report 📄.
+
+👉 [📥 Download the Full Report (PDF)](./IPL%20project%20pdf.pdf)
+
+✨ Highlights inside the report:
+- Season-wise match counts 📅  
+- Team performance comparison charts 📊  
+- Top scorers and wicket-takers 🔥  
+- Toss decisions & match outcomes 🎯  
+- Venue analysis & winning stats 🏟️  
+- Interactive visuals created using Plotly 📈  
+
+> 💡 For the full interactive experience, check out the [Live Streamlit App 🚀](https://ipl-2008-2024-dataset-analysis-xbagnkxaixuwwc9qon2hvb.streamlit.app/)
+
