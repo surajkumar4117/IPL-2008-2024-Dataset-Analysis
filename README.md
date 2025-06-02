@@ -23,5 +23,6 @@ This project is a **Streamlit-based interactive dashboard** for analyzing IPL (I
 
 ---
 ## 📊 Visuals
+[📄 View the PDF](./IPL project pdf.pdf)
 
 [View the PDF Report](./docs/IPL project pdf.pdf)
